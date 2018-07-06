@@ -13,11 +13,11 @@
     "maxClients": 0
   },
   "xirsys": {
-    "gateway": "global.xirsys.net",
+    "gateway": "us.xirsys.com",
     "info": {
-      "ident": "",
-      "secret": "",
-      "channel": ""
+      "ident": "ZhidongZhang",
+      "secret": "1f7285c4-80aa-11e8-b9a4-1a3c1edb4605",
+      "channel": "MyFirstApp"
     }
   },
   "stunservers": [
